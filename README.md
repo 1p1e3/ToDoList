@@ -2,7 +2,7 @@
 ### 1. 说明
 go + go mod + gin + gorm + mysql 小练习
 
-前端在这儿: [ToDoList-FrontEnd](https://github.com/1p1e3/ToDoList)
+前端在这儿: [ToDoList-FrontEnd](https://github.com/1p1e3/ToDoList-FrontEnd)
 
 ### 2. 目录结构
 - `logs`： 存放日志文件
